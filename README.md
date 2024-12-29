@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Former desinger turned code conjurer 🔮! Started my quest with Photoshop and Premier, but fell down the JavaScript rabbit hole 🕳️ - now I'm juggling frameworks like a circus performer with ADHD. Currently transforming caffeine into code and making computers do my bidding as a Full Stack Developer.
+Former designer turned code conjurer 🔮! Started my quest with Photoshop and Premier, but fell down the JavaScript rabbit hole 🕳️ - now I'm juggling frameworks like a circus performer with ADHD. Currently transforming caffeine into code and making computers do my bidding as a Full Stack Developer.
 
 *   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [salmanhanif133@gmail.com](mailto:salmanhanif133@gmail.com)
