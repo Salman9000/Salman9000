@@ -16,7 +16,7 @@ Former designer turned code conjurer 🔮! Started my quest with Photoshop and P
   <a href="https://www.github.com/Salman9000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Salman9000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-![Profile views](https://komarev.com/ghpvc/?Salman9000)
+![](https://komarev.com/ghpvc/?username=Salman9000)
 
 ### Skills 
 <p align="left">
